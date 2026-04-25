@@ -1,0 +1,12 @@
+venv/
+env/
+
+data/raw/
+data/processed/
+*.zip
+
+.ipynb_checkpoints/
+.DS_Store
+
+__pycache__/
+*.pyc
