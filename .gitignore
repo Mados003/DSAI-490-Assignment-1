@@ -1,3 +1,4 @@
+.venv/
 venv/
 env/
 
@@ -6,7 +7,15 @@ data/processed/
 *.zip
 
 .ipynb_checkpoints/
-.DS_Store
+
 
 __pycache__/
 *.pyc
+.pytest_cache/
+
+
+models/*.h5
+models/*.weights.h5
+
+
+.DS_Store

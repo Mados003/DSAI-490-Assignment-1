@@ -1,8 +1,6 @@
-torch
-torchvision
+tensorflow[and-cuda]
 numpy
 matplotlib
 scikit-learn
 jupyterlab
 notebook
-Pillow
